@@ -15,8 +15,8 @@ Para rodar o projeto, é necessário ter **Python 3.12.8** instalado em sua máq
 Abra o terminal e execute:  
 
 ```bash
-git clone https://github.com/ismaalves/Desafio_Indicium.git
-cd Desafio_Indicium
+git clone https://github.com/ismaalves/LH_CD_ISMAEL_ALVES.git
+cd LH_CD_ISMAEL_ALVES
 ```
 
 ### 2. Criar e ativar um ambiente virtual  
