@@ -71,5 +71,14 @@ Execute o script principal:
     ```bash
     python ./Predict.py --data Data/test_data.csv
     ```
+**Importante**: Ao executar o script com um arquivo de dados diferente, certifique-se de que ele tem as mesmas colunas de [teste_indicium_precificacao.csv](Data/teste_indicium_precificacao.csv).
 
+## Como carregar o modelo:
+
+Para uma execução alternativa, o modelo desenvolvido e o scaler utilizado podem ser carregados assim:
+
+```
+model = joblib.load('Saved_Models/LGBM_model.pkl')
+scaler = joblib.load('Saved_Models/scaler.pkl')
+```
 ---
