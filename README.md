@@ -50,7 +50,7 @@ Ative o ambiente virtual:
 
 ### 3. Instalar dependências  
 
-Com o ambiente virtual ativado, execute:  
+Com o ambiente virtual ativado, execute (isso pode demorar alguns instantes):  
 
 ```bash
 pip install -r requirements.txt
