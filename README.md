@@ -60,8 +60,16 @@ pip install -r requirements.txt
 
 Execute o script principal:  
 
-```bash
-python nome_do_script.py --data test_data.py
-```
+- **Windows (cmd/PowerShell)**:  
+
+    ```powershell
+    python .\Predict.py --data Data\test_data.csv
+    ```
+
+- **macOS/Linux**:  
+
+    ```bash
+    python ./Predict.py --data Data/test_data.csv
+    ```
 
 ---
